@@ -7,7 +7,7 @@ console.log(Object.keys(pizzas[0]).length);
 
     describe('Scenario 1', function() {
         let pizzaName = pizzas[0][2].name;
-        it('Pizza 2 is pepperoni', function() {
+        it('Pizza 2 is pepperonieee', function() {
             expect(pizzaName).to.equal('pepperoni');
 
         });
